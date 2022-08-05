@@ -11,6 +11,12 @@ github.com/shibukawa/acquire-go v1.0.0 h1:wtWFn/SaUlpNKMdWhaxv91bohgAvSxWvZZwaY/
 github.com/shibukawa/acquire-go v1.0.0/go.mod h1:qNFR0+pDjqOx7ZpUVoF80jozjVpQKOi9JYaZyzp4Haw=
 github.com/shibukawa/frontend-go v0.0.0-20220730155808-6c54e3c11227 h1:b93GpeOxtxLGS0sLNu4RM2SzXqe5Daix/MHMKNiL1TI=
 github.com/shibukawa/frontend-go v0.0.0-20220730155808-6c54e3c11227/go.mod h1:l+HgzGK0NpuFgp7a5KRX8iMJHuPDZkIh6eE3pYwV/To=
+github.com/shibukawa/frontend-go v1.0.0 h1:0QdY0d68pRH/V6N4pKQTfl7GrZQo4k/iYlIrIZPMFzU=
+github.com/shibukawa/frontend-go v1.0.0/go.mod h1:l+HgzGK0NpuFgp7a5KRX8iMJHuPDZkIh6eE3pYwV/To=
+github.com/shibukawa/frontend-go v1.0.1 h1:v7onL5dFhu9XnFOgHnIyE37Q0OeFJSNOloN5qnut05A=
+github.com/shibukawa/frontend-go v1.0.1/go.mod h1:l+HgzGK0NpuFgp7a5KRX8iMJHuPDZkIh6eE3pYwV/To=
+github.com/shibukawa/frontend-go v1.0.2 h1:j4UJ8Ak11AwzOT/aWN2YT/5xvzAr79tKDMEKwRFhdlM=
+github.com/shibukawa/frontend-go v1.0.2/go.mod h1:l+HgzGK0NpuFgp7a5KRX8iMJHuPDZkIh6eE3pYwV/To=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
 golang.org/x/net v0.0.0-20220805013720-a33c5aa5df48 h1:N9Vc/rorQUDes6B9CNdIxAn5jODGj2wzfrei2x4wNj4=
 golang.org/x/net v0.0.0-20220805013720-a33c5aa5df48/go.mod h1:YDH+HFinaLZZlnHAfSS6ZXJJ9M9t4Dl22yv3iI2vPwk=
